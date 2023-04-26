@@ -1,2 +1,1 @@
-# GitHub
-You can see all my IT aknowlledge from here!
+# You can see all my IT aknowlledge from here!
